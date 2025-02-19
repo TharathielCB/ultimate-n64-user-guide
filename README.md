@@ -15,9 +15,9 @@ You can find the PDF in the [release section](https://github.com/TharathielCB/ul
   - N64 Digital / Retro GEM
 - detailed BR4N64
 - detailed BlueRetro web config
+- detailed FlashcartMenu (Summercart)
+- Changelog
 
 ## To Do: 
 - Update Controller Cheat-Sheet and create one pager
 - Detailed N64Adv2 configuations
-- Adding ultra PIF Ultra PIF
-
