@@ -13,9 +13,10 @@ You can find the PDF in the [release section](https://github.com/TharathielCB/ul
   - N64Adv(2)
   - BR4N64
   - N64 Digital / Retro GEM
-- detailed BR4N64
-- detailed BlueRetro web config
-- detailed FlashcartMenu (Summercart)
+- detailed information about BR4N64
+- detailed information about BlueRetro web config
+- detailed information about FlashcartMenu (Summercart)
+- detailed information about N64 Stick Converter PCB
 - Changelog
 
 ## To Do: 
